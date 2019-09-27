@@ -1,1 +1,1 @@
-"put -neweronly ./build/* ./" "synchronize remote -delete ./build ./"
+"put -neweronly ./build ./" "synchronize remote -delete ./build ./build"
